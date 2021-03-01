@@ -1,0 +1,95 @@
+.container{
+  width: 900px;
+  height:150px;
+}
+header{
+  margin-top:-20px;
+  width:1370px;
+  float:left;
+  background:#091a0c;
+  height:150px;
+  margin-left:-10px;
+}
+header2{
+  margin-top:-20px;
+  width:1370px;
+  float:left;
+  background:#6EC4DB;
+  height:150px;
+  margin-left:-1px;
+}
+.compbox{
+  width:550px;
+  float:left;
+  background: #63543a;
+  height:300px;
+  margin:50px;
+  border:10px solid black;
+
+}
+.compboxp{
+  color:black;
+  padding-left:80px;
+  padding-top:50px;
+}
+.uncompbox{
+  width:550px;
+  float:right;
+  background:#3e6956;
+  height:300px;
+  margin:50px;
+  border:10px solid black;
+  
+}
+.uncompboxp{
+  color:black;
+  padding-left:80px;
+  padding-top:50px;}
+footer{
+  position:fixed;
+  width:101%;
+  bottom:0;
+  background:#634f23;
+  height:50px;
+  margin-left:-8px;
+
+}
+
+footer div{
+  padding-bottom:50px;
+}
+.hcontent{
+  width:340px;
+  float:left;
+  background: #FFF7CD;
+  height:300px;
+  margin:50px;
+  border:3px solid black;
+  bottom:20;
+   color:black;
+  padding-left:80px;
+  padding-top:10px;
+}
+.hcontentp{
+  color:black;
+  padding-left:60px;
+  padding-top:50px;
+}
+.fcontent{
+  width:650px;
+  float:right;
+  background:#66AB8C;
+  height:400px;
+  margin:10px;
+  border:3px solid black;
+  
+}
+footer2{
+  position:fixed;
+  width:100%;
+  bottom:1;
+  background:#FA7C92;
+  height:50px;
+  right:0px;
+
+}
